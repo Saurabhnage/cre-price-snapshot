@@ -1,0 +1,7 @@
+.env
+node_modules/
+binary.wasm
+.cre_build_tmp.js
+dist/
+*.log
+.vscode/
