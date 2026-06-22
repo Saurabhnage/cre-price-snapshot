@@ -62,6 +62,33 @@ cre workflow simulate ./my-workflow --target staging-settings
 }
 ```
 
+## Deployment Details
+
+### Network
+
+Sepolia Testnet
+
+### SnapshotRecorder Contract
+
+Contract Address:
+
+0xADEead25f7aB15483889A669C450e51Ec978ba36
+
+### Chainlink Feed Used
+
+ETH/USD Feed (Sepolia)
+
+0x694AA1769357215DE4FAC081bf1f309aDC325306
+
+### Current Status
+
+* Smart contract deployed successfully
+* CRE workflow implemented
+* Workflow simulation successful
+* Deployment access requested from Chainlink
+* Waiting for CRE deployment approval to enable live on-chain writes
+
+
 ## Status
 
 - Smart Contract Deployed ✅
