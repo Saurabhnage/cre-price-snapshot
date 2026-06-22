@@ -1,7 +1,9 @@
 .env
 node_modules/
-binary.wasm
-.cre_build_tmp.js
+out/
+cache/
+broadcast/
 dist/
-*.log
+.cre_build_tmp.js
+binary.wasm
 .vscode/
